@@ -27,6 +27,9 @@ We finished with a 3d model of the top and bottom:
 ![WhatsApp Image 2025-06-30 at 15 57 06_42b4655e](https://github.com/user-attachments/assets/9e657471-e328-46d8-aad1-caf781350e71)
 ![WhatsApp Image 2025-06-30 at 15 57 47_dbb89ba6](https://github.com/user-attachments/assets/b9dc2f8a-e947-432c-af9d-000e2b8da8a8)
 
+![WhatsApp Image 2025-07-04 at 18 36 47_19875069](https://github.com/user-attachments/assets/e6164322-a696-49ad-a775-59e6b8c420ca)
+
+
 Our posture was notably incredible throughout the whole coding process.
 ![WhatsApp Image 2025-06-30 at 16 11 49_f42e6659](https://github.com/user-attachments/assets/e12bd7ea-4fa2-4508-a019-a1071df35284)
 
