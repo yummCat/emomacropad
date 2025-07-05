@@ -29,6 +29,15 @@ We finished with a 3d model of the top and bottom:
 
 ![WhatsApp Image 2025-07-04 at 18 36 47_19875069](https://github.com/user-attachments/assets/e6164322-a696-49ad-a775-59e6b8c420ca)
 
+| Item                        | Quantity | Notes                                                                 
+|-----------------------------|----------|-----------------------------------------------------------------------
+| Seeed XIAO RP2040           | 1        | Microcontroller; comes unsoldered with headers                        
+| MX-style switches           | 6        | Mechanical key switches                                               
+| 1N4148 diodes (through-hole)| 6        | One per switch for matrix wiring                                     
+| Blank DSA keycaps (black)   | 6        | Low-profile uniform keycaps                                          
+| SK6812 MINI-E LEDs          | 3        | Per-switch RGB lighting                 
+| M3x16mm screws              | 4        | For case assembly                                                     
+| 3D printed case             | 1        | Only 3D printing allowed (no acrylic), estimate cost 5$                 
 
 Our posture was notably incredible throughout the whole coding process.
 ![WhatsApp Image 2025-06-30 at 16 11 49_f42e6659](https://github.com/user-attachments/assets/e12bd7ea-4fa2-4508-a019-a1071df35284)
